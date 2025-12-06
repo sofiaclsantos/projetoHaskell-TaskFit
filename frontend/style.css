@@ -78,20 +78,20 @@ form input:focus {
     background-color: #16a34a;
 }
 
-.btn-atualizar {
-    background-color: #22c55e;
+.btn {
+    background-color: #16a34a;
     color: white;
     border: none;
-    padding: 12px 24px;
-    border-radius: 8px;
-    font-size: 16px;
+    padding: 6px 14px;     
+    border-radius: 6px;     
+    font-size: 13px;  
     font-weight: 600;
     cursor: pointer;
-    margin-top: 30px;
     transition: background 0.3s;
+    margin-right: 5px;
 }
 
-.btn-atualizar:hover {
+.btn:hover {
     background-color: #52cf80;
 }
 
@@ -123,9 +123,6 @@ th {
     font-size: 12px;
 }
 
-tr:hover {
-    background-color: #f9fafb;
-}
 
 #res {
     margin-top: 15px;
